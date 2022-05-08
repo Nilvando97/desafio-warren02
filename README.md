@@ -10,6 +10,7 @@ Desafio 02 Warren Tech Academy
 baixar visual studio 2019 e .Net core 5
 
 clonar repositorio
-git clone https://github.com/Nilvando97/desafio-warren01
+
+git clone https://github.com/Nilvando97/desafio-warren02
 
 Abrir a pasta do projeto no visual studio 2019 e executar o projeto.
