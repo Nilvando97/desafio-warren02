@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "DesafioWarren02/1.0.0": {
+        "runtime": {
+          "DesafioWarren02.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DesafioWarren02/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
